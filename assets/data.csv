@@ -64,6 +64,8 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0062,
 0063,blue,blue,no,no,no,no
 0064,black,blue,no,no,no,no
+
+//gui ar
 0065,teal,red,no,no,yes,no
 0066,rainbow,red,no,no,yes,no
 0067,green,red,no,no,yes,no
@@ -129,6 +131,126 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0127,light green,purple,no,no,yes,no
 0128,blue,purple,no,no,yes,no
 0129,black,purple,no,no,yes,no
+0130,rainbow,pink,no,no,yes,no
+0131,teal,pink,no,no,yes,no
+0132,green,pink,no,no,yes,no
+0133,red,pink,no,no,yes,no
+0134,purple,pink,no,no,yes,no
+0135,gold,pink,no,no,yes,no
+0136,light green,pink,no,no,yes,no
+0137,blue,pink,no,no,yes,no
+0138,black,pink,no,no,yes,no
+
+//microphone
+0139,rainbow,red,no,no,no,yes
+0140,teal,red,no,no,no,yes
+0141,green,red,no,no,no,yes
+0142,red,red,no,no,no,yes
+0143,purple,red,no,no,no,yes
+0144,gold,red,no,no,no,yes
+0145,light green,red,no,no,no,yes
+0146,blue,red,no,no,no,yes
+0147,black,red,no,no,no,yes
+0148,rainbow,blue,no,no,no,yes
+0149,teal,blue,no,no,no,yes
+0150,green,blue,no,no,no,yes
+0151,red,blue,no,no,no,yes
+0152,purple,blue,no,no,no,yes
+0153,gold,blue,no,no,no,yes
+0154,light green,blue,no,no,no,yes
+0155,blue,blue,no,no,no,yes
+0156,black,blue,no,no,no,yes
+0157,rainbow,sky blue,no,no,no,yes
+0158,teal,sky blue,no,no,no,yes
+0159,green,sky blue,no,no,no,yes
+0160,red,sky blue,no,no,no,yes
+0161,purple,sky blue,no,no,no,yes
+0162,gold,sky blue,no,no,no,yes
+0163,light green,sky blue,no,no,no,yes
+0164,blue,sky blue,no,no,no,yes
+0165,black,sky blue,no,no,no,yes
+0166,rainbow,green,no,no,no,yes
+0167,teal,green,no,no,no,yes
+0168,green,green,no,no,no,yes
+0169,red,green,no,no,no,yes
+0170,purple,green,no,no,no,yes
+0171,gold,green,no,no,no,yes
+0172,light green,green,no,no,no,yes
+0173,blue,green,no,no,no,yes
+0174,black,green,no,no,no,yes
+0175,rainbow,light green,no,no,no,yes
+0176,teal,light green,no,no,no,yes
+0177,green,light green,no,no,no,yes
+0178,red,light green,no,no,no,yes
+0179,purple,light green,no,no,no,yes
+0180,gold,light green,no,no,no,yes
+0181,light green,light green,no,no,no,yes
+0182,blue,light green,no,no,no,yes
+0183,black,light green,no,no,no,yes
+0184,
+0185,
+0186,
+0187,
+0188,
+0189,
+1090,
+0190,
+0191,
+0192,
+0193,rainbow,purple,no,no,no,yes
+0194,teal,purple,no,no,no,yes
+0195,green,purple,no,no,no,yes
+0196,red,purple,no,no,no,yes
+0197,purple,purple,no,no,no,yes
+0198,gold,purple,no,no,no,yes
+0199,light green,purple,no,no,no,yes
+0200,blue,purple,no,no,no,yes
+0201,black,purple,no,no,no,yes
+0202,rainbow,pink,no,no,no,yes
+0203,teal,pink,no,no,no,yes
+0204,green,pink,no,no,no,yes
+0205,red,pink,no,no,no,yes
+0206,purple,pink,no,no,no,yes
+0207,gold,pink,no,no,no,yes
+0208,light green,pink,no,no,no,yes
+0209,blue,pink,no,no,no,yes
+0210,black,pink,no,no,no,yes
+///
+///
+///3d glasses and microphone
+0211,blue & brown pattern,red,no,3D,no,yes
+0212,blue & brown pattern,blue,no,3D,no,yes
+0213,blue & brown pattern,teal,no,3D,no,yes
+0214,blue & brown pattern,green,no,3D,no,yes
+0215,blue & brown pattern,light green,no,3D,no,yes
+0216,
+0217,blue & brown,purple,no,3D,no,yes
+0218,blue & brown,pink,no,3D,no,yes
+
+////shades and microphone
+0219,green leaf pattern,red,no,shades,no,yes
+0220,green leaf pattern,blue,no,shades,no,yes
+0221,green leaf pattern,teal,no,shades,no,yes
+0222,green leaf pattern,green,no,shades,no,yes
+0223,green leaf pattern,light green,no,shades,no,yes
+0224,green leaf pattern,sky blue,no,shades,no,yes
+0225,green leaf pattern,purple,no,shades,no,yes
+0226,green leaf pattern,pink,no,shades,no,yes
+
+//////
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
