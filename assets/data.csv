@@ -25,21 +25,21 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0023,blue,sky blue,no,no,no,no
 0024,black,sky blue,no,no,no,no
 0025,teal,light green,no,no,no,no
-0026,
-0027,
-0028,
-0029,
-0030,
-0031,
-0032,
-0033,
-0034,
-0035,
-0036,
-0037,
-0038,
-0039,
-0040,
+0026,green,light green,no,no,no,no
+0027,red,light green,no,no,no,no
+0028,purple,light green,no,no,no,no
+0029,gold,light green,no,no,no,no
+0030,green,light green,no,no,no,no
+0031,blue,light green,no,no,no,no
+0032,black,light green,no,no,no,no
+0033,teal,green,no,no,no,no
+0034,green,green,no,no,no,no
+0035,red,green,no,no,no,no
+0036,purple,green,no,no,no,no
+0037,gold,green,no,no,no,no
+0038,green,green,no,no,no,no
+0039,blue,green,no,no,no,no
+0040,black,green,no,no,no,no
 0041,
 0042,
 0043,
@@ -48,5 +48,20 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0046,
 0047,
 0048,
-0049,
-0050
+0049,teal,red,no,no,no,no
+0050,green,red,no,no,no,no
+0051,red,red,no,no,no,no
+0052,purple,red,no,no,no,no
+0053,gold,red,no,no,no,no
+0054,green,red,no,no,no,no
+0055,blue,red,no,no,no,no
+0056,black,red,no,no,no,no
+0057,teal,blue,no,no,no,no
+0058,green,blue,no,no,no,no
+0059,red,blue,no,no,no,no
+0060,purple,blue,no,no,no,no
+0061,gold,blue,no,no,no,no
+0062,
+0063,blue,blue,no,no,no,no
+0064,black,blue,no,no,no,no
+0065
