@@ -2,7 +2,7 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0000,teal,purple,no,no,no,no
 0001,green,purple,no,no,no,no
 0002,red,purple,no,no,no,no
-0003,*****************************************
+0003,trippy vibes,yellow,no,3D,yes,no
 0004,purple,purple,no,no,no,no
 0005,gold,purple,no,no,no,no
 0006,light green,purple,no,no,no,no
@@ -40,14 +40,14 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0038,green,green,no,no,no,no
 0039,blue,green,no,no,no,no
 0040,black,green,no,no,no,no
-0041,
-0042,
-0043,
-0044,
-0045,
-0046,
-0047,
-0048,
+0041,blue,yellow,no,no,no,no
+0042,teal,yellow,no,no,no,no
+0043,red,yellow,no,no,no,no
+0044,purple,yellow,no,no,no,no
+0045,gold,yellow,no,no,no,no
+0046,green,yellow,no,no,no,no
+0047,blue,yellow,no,no,no,no
+0048,black,yellow,no,no,no,no
 0049,teal,red,no,no,no,no
 0050,green,red,no,no,no,no
 0051,red,red,no,no,no,no
@@ -61,7 +61,7 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0059,red,blue,no,no,no,no
 0060,purple,blue,no,no,no,no
 0061,gold,blue,no,no,no,no
-0062,
+0062,green,beige,no,no,no,no
 0063,blue,blue,no,no,no,no
 0064,black,blue,no,no,no,no
 
@@ -72,8 +72,8 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0068,red,red,no,no,yes,no
 0069,purple,red,no,no,yes,no
 0070,gold,red,no,no,yes,no
-0071,
-0072,green,red,no,no,yes,no
+0071,black,red,no,no,yes,no
+0072,light green,red,no,no,yes,no
 0073,blue,red,no,no,yes,no
 0074,black,red,no,no,yes,no
 0075,teal,blue,no,no,yes,no
@@ -112,21 +112,21 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0108,light green,light green,no,no,yes,no
 0109,blue,light green,no,no,yes,no
 0110,black,light green,no,no,yes,no
-0111,
-0112.
-0113,
-0114,
-0115,
-0116,
-0117,
-0118,
-0119,
+0111,purple,yellow,no,no,yes,no
+0112.red,yellow,no,no,yes,no
+0113,rainbow,yellow,no,no,yes,no
+0114,teal,yellow,no,no,yes,no
+0115,green,yellow,no,no,yes,no
+0116,gold,yellow,no,no,yes,no
+0117,light green,yellow,no,no,yes,no
+0118,blue,yellow,no,no,yes,no
+0119,black,yellow,no,no,yes,no
 0120,rainbow,purple,no,no,yes,no
 0121,teal,purple,no,no,yes,no
 0122,green,purple,no,no,yes,no
 0123,red,purple,no,no,yes,no
 0124,purple,purple,no,no,yes,no
-0125,
+0125,black,yellow,no,no,yes,no
 0126,gold,purple,no,no,yes,no
 0127,light green,purple,no,no,yes,no
 0128,blue,purple,no,no,yes,no
@@ -187,16 +187,15 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0181,light green,light green,no,no,no,yes
 0182,blue,light green,no,no,no,yes
 0183,black,light green,no,no,no,yes
-0184,
-0185,
-0186,
-0187,
-0188,
-0189,
-1090,
-0190,
-0191,
-0192,
+0184,rainbow, yellow,no,no,no,yes
+0185,teal,yellow,no,no,no,yes
+0186,red,yellow,no,no,no,yes
+0187,purple,yellow,no,no,no,yes
+0188,gold,yellow,no,no,no,yes
+0189,green,yellow,no,no,no,yes
+0190,blue,yellow,no,no,no,yes
+0191,green,yellow,no,no,no,yes
+0192,black,yellow,no,no,no,yes
 0193,rainbow,purple,no,no,no,yes
 0194,teal,purple,no,no,no,yes
 0195,green,purple,no,no,no,yes
@@ -215,17 +214,18 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0208,light green,pink,no,no,no,yes
 0209,blue,pink,no,no,no,yes
 0210,black,pink,no,no,no,yes
-///
-///
+
+
 ///3d glasses and microphone
 0211,blue & brown pattern,red,no,3D,no,yes
 0212,blue & brown pattern,blue,no,3D,no,yes
 0213,blue & brown pattern,teal,no,3D,no,yes
 0214,blue & brown pattern,green,no,3D,no,yes
 0215,blue & brown pattern,light green,no,3D,no,yes
-0216,
+0216,blue & brown pattern,yellow,no,3D,no,yes
 0217,blue & brown,purple,no,3D,no,yes
 0218,blue & brown,pink,no,3D,no,yes
+
 
 ////shades and microphone
 0219,green leaf pattern,red,no,shades,no,yes
@@ -237,7 +237,7 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0225,green leaf pattern,purple,no,shades,no,yes
 0226,green leaf pattern,pink,no,shades,no,yes
 
-//////
+
 ///// 3D and guitar
 0227,trippy vibes pattern,red,no,3D,yes,no
 0228,trippy vibes pattern,blue,no,3D,yes,no
@@ -248,6 +248,7 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0233,trippy vibes pattern,purple,no,3D,yes,no
 0234,trippy vibes pattern,pink,no,3D,yes,no
 
+
 ///////shades and guitar
 0235,penguin pattern,red,no,shades,yes,no
 0236,penguin pattern,blue,no,shades,yes,no
@@ -257,6 +258,18 @@ Name,Record Color,Penguin Color,hat,glasses,guiiter,microphone
 0240,penguin pattern,sky blue,no,shades,yes,no
 0241,penguin pattern,purple,no,shades,yes,no
 0242,penguin pattern,pink,no,shades,yes,no
+
+
+
+//////beanie hat
+0243,note pattern,red,beanie,no,no,no
+0244,note pattern,blue,beanie,no,no,no
+0245,note pattern,teal,beanie,no,no,no
+0246,note pattern,green,beanie,no,no,no
+0247,note pattern,light green,beanie,no,no,no
+0248,note pattern,sky blue,beanie,no,no,no
+0249,note pattern,purple,beanie,no,no,no
+0250,note pattern,pink,beanie,no,no,no
 
 
 
